@@ -105,6 +105,7 @@
                                     go get -v honnef.co/go/tools/...;
                                     go get -v github.com/sourcegraph/go-langserver;
                                     go get -v github.com/go-delve/delve/cmd/dlv;
+                                    go get -v github.com/davidrjenni/reftools/cmd/fillstruct;
                                     chmod -R 777 /go'" />
                                 </exec>
                             </target>
