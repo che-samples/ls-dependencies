@@ -104,7 +104,7 @@
                                     go get -v github.com/alecthomas/gometalinter;
                                     go get -v honnef.co/go/tools/...;
                                     go get -v github.com/sourcegraph/go-langserver;
-                                    go get -v github.com/derekparker/delve/cmd/dlv;
+                                    go get -v github.com/go-delve/delve/cmd/dlv;
                                     chmod -R 777 /go'" />
                                 </exec>
                             </target>
